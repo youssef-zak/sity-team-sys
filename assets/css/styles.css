@@ -1,0 +1,27 @@
+body {
+    background-color: #f3f4f6;
+    font-family: 'Cairo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.card-icon {
+    font-size: 2rem;
+    opacity: 0.8;
+}
+
+.status-badge {
+    font-size: 0.85rem;
+    text-transform: capitalize;
+}
+
+.table-responsive {
+    max-height: 450px;
+}
+
+.modal-title {
+    font-weight: bold;
+}
